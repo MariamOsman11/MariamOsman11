@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MariamOsman11
-- 👀 I’m interested in both frontend and backend webdevelopment
-- 🌱 I’m currently learning ...Javascript, mongodb
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m mastered frontend and now I'm learning backend of software development 
+- 🌱 I’m currently learning ...Nodejs, mongodb
+- 💞️ I’m looking to collaborate on ... open source
 - 📫 How to reach me ...mariamkca11@gmail.com
 
 <!---
