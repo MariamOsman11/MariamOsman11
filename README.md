@@ -1,8 +1,8 @@
-- 👋 Hi, I’m MariamOsman
+-  Hi👋, I’m Mariam
 
-- 👀 I’m interested in both frontend and backend webdevelopment
-- 🌱 I’m currently learning ...Javascript, mongodb
-- 💞️ I’m looking to collaborate on ... 
+- 👀 Remote Full-Stack software developer
+- 🌱 I’m currently learning ...Javascript
+- 💞️ I’m looking for help with any JavaScript based open source projects ✨  ✨
 - 📫 How to reach me .
 
 <!---
