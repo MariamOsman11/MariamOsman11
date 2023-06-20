@@ -1,17 +1,17 @@
 <h1 align="center">Hello 👋, I'm Mariam</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
+<h3 align="center" Color="red" >A Passionate Front-End Developer 💻 </h3>
+<div align="center"><a href="#"><img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamosman11&label=Profile%20views&color=0e75b6&style=flat" alt="mariamosman11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamosman11" alt="mariamosman11" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@mariannaloveee" target="blank"><img src="https://img.shields.io/twitter/follow/@mariannaloveee?logo=twitter&style=for-the-badge" alt="@mariannaloveee" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript and react based website**
+- 🔭 I’m currently working on **Javascript and React based website**
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Front-end projects**
 
 - 👨‍💻 All of my projects are available at [https://mariamosman11.github.io/-Portfolio-/](https://mariamosman11.github.io/-Portfolio-/)
 
