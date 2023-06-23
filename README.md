@@ -1,7 +1,10 @@
-<h1 align="center">Hello 👋, I'm Mariam</h1>
-<h3 align="center" Color="red" >A Passionate Front-End Developer 💻 </h3>
-<div align="center"><a href="#"><img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamosman11&label=Profile%20views&color=0e75b6&style=flat" alt="mariamosman11" /> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=1E88E5&background=993A8500&center=true&multiline=true&width=471&height=100&lines=Hello+%F0%9F%91%8B%2C+I'm+Mariam+;+A+Passionate+Front-End+Developer)](https://git.io/typing-svg)</div>
+  
+
+<div align="center"><a href="#"><img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%"></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamosman11&label=Profile%20views&color=0e75b6&style=flat"alt="mariamosman11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamosman11" alt="mariamosman11" /></a> </p>
 
@@ -13,11 +16,11 @@
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
-- 👨‍💻 All of my projects are available at [https://mariamosman11.github.io/-Portfolio-/](https://mariamosman11.github.io/-Portfolio-/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mariamosman11.github.io/-Portfolio-/)
 
 - 💬 Ask me about **Javacript, React**
 
-- 📫 How to reach me **Mariamkca11@gmail.com**
+- 📫 How to reach me at [my Email](Mariamkca11@gmail.com)
 
 - ⚡ Fun fact **I'm happy always**
 
