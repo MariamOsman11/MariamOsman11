@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=1E88E5&background=993A8500&center=true&multiline=true&width=471&height=100&lines=Hello+%F0%9F%91%8B%2C+I'm+Mariam+;+A+Passionate+Front-End+Developer)](https://git.io/typing-svg)</div>
   
 
-<div align="center"><a href="#"><img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%"></div>
+<div ><a href="#"><img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY"></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamosman11&label=Profile%20views&color=0e75b6&style=flat"alt="mariamosman11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariamosman11" alt="mariamosman11" /></a> </p>
